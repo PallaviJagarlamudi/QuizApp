@@ -1,0 +1,12 @@
+1000;R;What is the national animal of India?;Tiger;Deer,Cow,Tiger,Elephant
+1001;R;What is the national bird of India?;Peacock;Pigeon,Peacock,Swan,Nightangle
+1002;R;Which is the largest continent?;Asia;Australia,Antartica,Africa,Asia
+1003;R;What is the code name of Andriod API level 3?;Cupcake;Cupcake,Custard,Cadbury,Candy
+3000;T;Who is considered as the Father of Computers?;Charles Babbage
+3001;T;In which year first world war was started?;1914
+3002;T;What are two values used in binary number system?;0,1
+3003;T;In which year second world war was ended?;1945
+2000;C;Who are the Nobel laureates?;C V Raman,Rabindranath Tagore,Amartya Sen;C V Raman,Rabindranath Tagore,Srinivasa Ramanujan,Amartya Sen
+2001;C;What are the return values of startActibityForResult() in android?;RESULT_OK,RESULT_CANCEL;RESULT_OK,RESULT_CRASH,RESULT_CANCEL,RESULT_FATAL
+2002;C;A Byte consists of?;2 nibble,8 bits;2 nibble,256 bits,0.5 nibble,8 bits
+2003;C;Founders of Google company?;Larry Page,Sergey Brin;Eric Schmidt,Larry Page,Bill Gross,Sergey Brin

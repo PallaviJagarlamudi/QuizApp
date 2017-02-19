@@ -1,0 +1,24 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">>
+    <string name="app_name">QuizApp</string>
+
+    <!-- -->
+    <string name="name_hint">Participant Name</string>
+    <string name="guidelines">Guidelines : Quiz has variety of Q/A formats such as free text, checkboxes and radiobuttons. For textfield in case of multiple answers, separate them with comma</string>
+    <string name="header_ques_1">Question 1:</string>
+    <string name="header_ques_2">Question 2:</string>
+    <string name="header_ques_3">Question 3:</string>
+    <string name="header_ques_4">Question 4:</string>
+    <string name="header_ques_5">Question 5:</string>
+    <string name="header_ques_6">Question 6:</string>
+    <string name="submitText">Submit</string>
+    <string name="resetText">Reset</string>
+    <string name="wrong">Wrong</string>
+    <string name="correct">Correct</string>
+
+
+    <string name="scoreMsg"><xliff:g example="Amy" id="username">%s </xliff:g> Quiz score is <xliff:g example="2" id="score">%d</xliff:g></string>
+    <string name="resetMsg">Already submitted and got score of <xliff:g example="2" id="score">%d</xliff:g>..Reset to play again</string>
+    <string name="warningMsg">"Answer all the questions and hit submit"</string>
+    <string name="userNameMsg">"Enter participant name!!"</string>
+    <string name="resetWrnMsg">"Its already have been reset"</string>
+</resources>
